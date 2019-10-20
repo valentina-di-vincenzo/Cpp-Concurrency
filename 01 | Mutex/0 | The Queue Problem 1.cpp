@@ -4,7 +4,7 @@
 
 /* THE QUEUE PROBLEM #1
  * Two threads (A and B) read the front value of a queue and pop it immediately after.
- * [ Q ] : Do the two threads cumulatively always retrieve all the elements of the queue?
+ * [ QUESTION ] : Do the two threads together always retrieve all the elements of the queue?
  */
 
 void retrieve_and_delete(std::queue<int>& rawQueue, std::string threadName) {
@@ -34,7 +34,7 @@ int main() {
 
 }
 
-/* [ A ] : No, they don't.
+/* [ ANSWER ] : No, they don't.
  *
  * POSSIBLE OUTPUT:
  * [ A ] front 0 | new front 2
