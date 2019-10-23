@@ -7,7 +7,7 @@ This repository accompanies my Medium series about concurrency (new article each
 0. [Introduction](https://medium.com/@valentina.codes/c-multithreading-and-concurrency-introduction-f640ce986fa7)
 
 **→ Low-level approaches**
-1. [Mutex](https://medium.com/@valentina.codes/c-write-your-first-concurrent-code-and-learn-everything-about-mutex-816fb02f5a0)
+1. [Mutex](https://medium.com/swlh/c-mutex-write-your-first-concurrent-code-69ac8b332288)
 1. Condition variable
 1. Atomic
 
