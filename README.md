@@ -8,7 +8,7 @@ This repository accompanies my Medium series about concurrency (new article each
 
 **→ Low-level approaches**
 1. [Mutex](https://medium.com/swlh/c-mutex-write-your-first-concurrent-code-69ac8b332288)
-1. Condition variable
+1. [Condition variable] (https://medium.com/swlh/c-thread-synchronization-at-the-restaurant-ab0d125a0b7b)
 1. Atomic
 
 **→ High-level approaches**
