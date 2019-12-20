@@ -8,11 +8,11 @@ This repository accompanies my Medium series about concurrency (new article each
 
 **→ Low-level approaches**
 1. [Mutex](https://medium.com/swlh/c-mutex-write-your-first-concurrent-code-69ac8b332288)
-1. [Condition variable] (https://medium.com/swlh/c-thread-synchronization-at-the-restaurant-ab0d125a0b7b)
-1. Atomic
+2. [Condition variables](https://medium.com/swlh/c-thread-synchronization-at-the-restaurant-ab0d125a0b7b)
+3. Atomic
 
 **→ High-level approaches**
-1. Future and async
-1. Promise
-1. Packaged task
+4. Future and async
+5. Promise
+6. Packaged task
 
