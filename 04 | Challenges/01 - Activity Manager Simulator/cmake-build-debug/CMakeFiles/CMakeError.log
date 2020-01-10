@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/divincev/Google Drive/C++/03 | C++ code/lab 4 | Thread Pool/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8a138/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_8a138.dir/build.make CMakeFiles/cmTC_8a138.dir/build
+make[1]: *** No rule to make target `/Users/divincev/Google Drive/C++/03 ', needed by `CMakeFiles/cmTC_8a138.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_8a138/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/divincev/Google Drive/C++/03 | C++ code/lab 4 | Thread Pool/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3db3e/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_3db3e.dir/build.make CMakeFiles/cmTC_3db3e.dir/build
+make[1]: *** No rule to make target `/Users/divincev/Google Drive/C++/03 ', needed by `CMakeFiles/cmTC_3db3e.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_3db3e/fast] Error 2
+
+
+
