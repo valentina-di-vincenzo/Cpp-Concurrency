@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab_4.dir/main.cpp.o CMakeFiles/lab_4.dir/JobScheduler.cpp.o CMakeFiles/lab_4.dir/Work.cpp.o  -o lab_4 

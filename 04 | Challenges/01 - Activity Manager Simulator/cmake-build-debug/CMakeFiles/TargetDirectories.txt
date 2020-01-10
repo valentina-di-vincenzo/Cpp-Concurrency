@@ -1,3 +1,0 @@
-/Users/divincev/Google Drive/C++/03 | C++ code/lab 4 | Thread Pool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/divincev/Google Drive/C++/03 | C++ code/lab 4 | Thread Pool/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/divincev/Google Drive/C++/03 | C++ code/lab 4 | Thread Pool/cmake-build-debug/CMakeFiles/lab_4.dir
