@@ -1,6 +1,6 @@
 # Cpp-Concurrency
 A guided tour to learn C++ Multithreading and Concurrency. Theory, code examples and challenges.
-This repository accompanies my Medium series about concurrency (new article each week):
+This repository accompanies my Medium series about concurrency:
 
 ## Roadmap
 
@@ -12,7 +12,7 @@ This repository accompanies my Medium series about concurrency (new article each
 3. Atomic
 
 **→ High-level approaches**
-4. Future and async
-5. Promise
-6. Packaged task
+1. Future and async
+2. Promise
+3. Packaged task
 
